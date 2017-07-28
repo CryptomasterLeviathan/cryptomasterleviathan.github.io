@@ -6,5 +6,8 @@ description: My thoughts and notes on technology
 twitter_username: CryptomasterLev
 github_username: CryptomasterLeviathan
 
+paginate: 5
+permalink: /:year/:month/:day/:title.html
+
 # Build settings
 theme: minima
