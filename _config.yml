@@ -1,1 +1,10 @@
+# Basic options
+title: Matt's Blog
+author: Matthew McCormick
+email: cryptomasterleviathan@gmail.com
+description: My thoughts and notes on technology
+twitter_username: CryptomasterLev
+github_username: CryptomasterLeviathan
+
+# Build settings
 theme: jekyll-theme-minimal
