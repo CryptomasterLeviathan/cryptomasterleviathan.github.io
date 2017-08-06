@@ -4,8 +4,8 @@ title: "NES Programming"
 categories: programming nes assembly
 ---
 
-***This is still a work in progess!***
-These are my notes on creating a game for the NES.
+***This is still a work in progess!***  
+These are my notes on creating a game for the NES. This document is meant to act as a quick reference when developing NES games. If you are new to developing on the NES I highly suggest reading bunnyboy's [Nerdy Nights Tutorial](http://nintendoage.com/forum/messageview.cfm?catid=22&threadid=7155).
 
 ## Table of Contents
 {:.no_toc}
@@ -16,6 +16,20 @@ These are my notes on creating a game for the NES.
 - Character data can also be called graphics data
 - Binary values are prefixed with %
 - Hexidecimal values are prefixed with $
+
+## CPU Addresses
+
+
+| Addresses     | Description |  
+|:-------------:| ----------- |  
+| $0000 - $0800 | Test test t |
+
+## PPU Addresses
+
+
+| Addresses     | Description |  
+|:-------------:| ----------- |  
+| $0000 - $0800 | Test test t |
 
 ## Hardware Limitations
 - *TODO: 8?* sprites per scan line
@@ -46,4 +60,4 @@ These are my notes on creating a game for the NES.
 - Some  game carts contain WRAM (Work RAM) is battery backed RAM
 
 ## Resources
-- [Nerdy Nights Tutorials](http://nintendoage.com/forum/messageview.cfm?catid=22&threadid=7155)
+- bunnyboy's [Nerdy Nights Tutorial](http://nintendoage.com/forum/messageview.cfm?catid=22&threadid=7155)
